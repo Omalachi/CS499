@@ -72,9 +72,8 @@ To simulate data persistence, I implemented a simple file-based logging system i
 
 ## 📬 Contact
 
-- **Email**: your.email@example.com
-- **GitHub**: [github.com/your-github-username](https://github.com/your-github-username)
-- **LinkedIn** *(optional)*: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)
+- **Email**: malachi.okongwu@snhu.com
+- **GitHub**: [github.com/Omalachi](https://github.com/Omalachi)
 
 ---
 
