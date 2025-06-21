@@ -66,8 +66,7 @@ To simulate data persistence, I implemented a simple file-based logging system i
 
 ## 🔗 View the Portfolio Live
 
-[🌐 GitHub Pages Link](https://your-github-username.github.io/CS499-ePortfolio)  
-*(Replace the link with your actual GitHub Pages URL)*
+[🌐 GitHub Pages Link](https://github.com/Omalachi/CS499)
 
 ---
 
