@@ -67,7 +67,9 @@ To simulate data persistence, I implemented a simple file-based logging system i
 ## 🔗 View the Portfolio Live
 
 [🌐 GitHub Pages Link](https://github.com/Omalachi/CS499)
+
 [Youtube Link] (https://youtu.be/xLqVFvoQPXw) Part 1
+
 [Youtube link] (https://youtu.be/fOeWwGP4Ikc)Part 2
 
 ---
